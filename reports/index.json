@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260331-161451-n8sg",
+      "title": "Riko Riandi",
+      "commanders": [
+        "Riko Riandi"
+      ],
+      "dateStart": "2026-03-31T20:14:51.000Z",
+      "dateEnd": "2026-03-31T21:49:37.000Z",
+      "dateLabel": "3/31/2026, 4:14:51 PM - 3/31/2026, 5:49:37 PM",
+      "url": "https://JaharSWMG.github.io/SWMGJahar/?report=20260331-161451-n8sg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20260330-225522-crd5",
       "title": "Nico Da Illustrious",
       "commanders": [
