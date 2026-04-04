@@ -3,6 +3,32 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260403-212513-vxna",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "dateStart": "2026-04-04T01:25:13.000Z",
+      "dateEnd": "2026-04-04T04:17:34.000Z",
+      "dateLabel": "4/3/2026, 9:25:13 PM - 4/4/2026, 12:17:34 AM",
+      "url": "https://JaharSWMG.github.io/SWMGJahar/?report=20260403-212513-vxna",
+      "summary": {
+        "borderlandsPct": 0.3783783783783784,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 2,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20260402-220954-zzdg",
       "title": "Nico Da Illustrious",
       "commanders": [
