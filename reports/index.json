@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260415-221406-swsl",
+      "title": "Nico Da Illustrious",
+      "commanders": [
+        "Nico Da Illustrious"
+      ],
+      "dateStart": "2026-04-16T02:14:06.000Z",
+      "dateEnd": "2026-04-16T03:49:30.000Z",
+      "dateLabel": "4/15/2026, 10:14:06 PM - 4/15/2026, 11:49:30 PM",
+      "url": "https://JaharSWMG.github.io/SWMGJahar/?report=20260415-221406-swsl",
+      "summary": {
+        "borderlandsPct": 0.07142857142857142,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 50,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260413-232241-yaa1",
       "title": "Nico Da Illustrious",
       "commanders": [
