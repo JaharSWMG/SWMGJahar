@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260418-180813-lkbc",
+      "title": "Shadow Wizard Jahar",
+      "commanders": [
+        "Shadow Wizard Jahar"
+      ],
+      "dateStart": "2026-04-18T22:08:13.000Z",
+      "dateEnd": "2026-04-19T02:56:34.000Z",
+      "dateLabel": "4/18/2026, 6:08:13 PM - 4/18/2026, 10:56:34 PM",
+      "url": "https://JaharSWMG.github.io/SWMGJahar/?report=20260418-180813-lkbc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 88,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260415-221406-swsl",
       "title": "Nico Da Illustrious",
       "commanders": [
